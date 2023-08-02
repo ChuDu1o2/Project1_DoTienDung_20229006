@@ -1,2 +1,2 @@
-# Project1_DoTienDung_20229006
+# Project1
 Source code Project 1 - Laptop Shop
